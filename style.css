@@ -16,6 +16,11 @@
     margin: 0;
     padding: 0
 }
+.myDiv {
+  border: 5px outset red;
+  background-color: #3d3d3d;    
+  text-align: center;
+}
 
 @-webkit-keyframes spinner-wandering-cubes-1eyF3t {
     25% {
